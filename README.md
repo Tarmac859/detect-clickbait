@@ -1,3 +1,2 @@
 # detect-clickbait
 
-HelloWorld
